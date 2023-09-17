@@ -1,4 +1,4 @@
-# text_to_image
+# Text_to_Image
 The repo generates images from text prompt using stable diffusion model.
 the result of the prompt'Generate a pictuer of capitan america in night style'
 
